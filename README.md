@@ -1,6 +1,6 @@
 ### Hi there, I'm Miles 👋
 
-- 🔬 I’m currently working on a single particle tracking package in Python for TIRF microscopy data
+- 🔬 I’m currently working on a single-particle tracking package in Python for protein-protein interactions
 - 🧬 BSc at Amsterdam University College, Research Intern at FOM Institute for Atomic and Molecular Physics (AMOLF)
 - 🚀 Incoming MSc in Bioinformatics at ETH Zurich 
 - 🎨 Scientific illustration and data visualization in my spare time
