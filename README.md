@@ -1,3 +1,7 @@
 ### Hi there, I'm Miles 👋
 
-- 🧬 BSc at Amsterdam University College, MSc in Bioinformatics at ETH Zurich
+- 🧬 MSc in Bioinformatics @ ETH Zürich
+
+Previously at:
+* [AMOLF](https://amolf.nl/) (Amsterdam)
+
