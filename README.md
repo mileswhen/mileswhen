@@ -1,7 +1,10 @@
-### Hi there, I'm Miles 👋
+Hi, I'm Miles, an MSc student in Computational Bio @ ETH Zürich.
 
-- 🧬 MSc in Bioinformatics @ ETH Zürich
+Currently:
+* Doing my thesis w/ the LAS group @ ETHz.
 
 Previously at:
-* [AMOLF](https://amolf.nl/) (Amsterdam)
+* Roche, pRED-PMDA (Basel)
+* AliveX Biotech (Shanghai)
+* AMOLF (Amsterdam)
 
