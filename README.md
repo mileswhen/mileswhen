@@ -4,7 +4,7 @@ Currently:
 * Doing my thesis w/ the LAS group @ ETHz and Prof. Bogunovic @UCL.
 
 Previously at:
-* Roche, pRED-PMDA (Basel)
+* Roche pRED (Basel)
 * AliveX Biotech (Shanghai)
 * AMOLF (Amsterdam)
 
