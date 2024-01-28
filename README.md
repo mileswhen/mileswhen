@@ -1,9 +1,11 @@
-Hi, I'm Miles, an MSc student in Computational Bio @ ETH Zürich.
+Hi, I'm Miles. I work on probabilistic methods for molecular design.
 
 Currently:
-* Doing my thesis w/ Parnian Kassraie, Prof. Krause @ETHz and Prof. Bogunovic @UCL.
+
+In transit > San Francisco.
 
 Previously at:
+* LAS group, ETHz (Zürich)
 * Roche pRED (Basel)
 * AliveX Biotech (Shanghai)
 * AMOLF (Amsterdam)
